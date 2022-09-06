@@ -1,4 +1,6 @@
 # U-Net Image Segmentation Using PyTorch
+Dataset: TGS Salt Identification Dataset<br>
+Task: Mini Project for Learning PyTorch Syntaxes & Training Loop Implementation
 ```
 U-Net Architecture
 ```
